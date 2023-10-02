@@ -35,7 +35,7 @@ The following rubric will be used for grading. There is no autograder for this a
 | Part C | /3 | /5 | /2 | /10 |
 | Part D | /1 | /3 | /1 | /5 |
 | Problem 2 |  |   |  | /25 |
-| Part A | /10 |  | /3 | /15 |
+| Part A | /8 |  | /7 | /15 |
 | Part B |  | /8 | /2 | /10 |
 
 
