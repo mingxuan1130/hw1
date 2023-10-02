@@ -35,7 +35,7 @@ The following rubric will be used for grading. There is no autograder for this a
 | Part C | /3 | /5 | /2 | /10 |
 | Part D | /1 | /3 | /1 | /5 |
 | Problem 2 |  |   |  | /25 |
-| Part A | /5 | /7 | /3 | /15 |
+| Part A | /10 | /0 | /3 | /15 |
 | Part B |  | /8 | /2 | /10 |
 
 
@@ -157,7 +157,7 @@ Write a function `abs_det(A)` which computes the absolute value of the determina
 
 ### Part A (15 pts)
 
-Write a class `my_complex` that stores a complex number. The class must contain the magic methods `__init__`, `__add__` and `__mul__`, to initialize, add, and multiply complex numbers. It must also contain a method `conj` to conjugate them and the methods `real` and `imag` that return the real and imaginary part. Demonstrate that it is working by verifying that $(1+1i)*\bar{(1)+(1i)}$ is 2.
+Write a class `my_complex` that stores a complex number. The class must contain the magic methods `__init__`, `__add__` and `__mul__`, to initialize, add, and multiply complex numbers. It must also contain a method `conj` to conjugate them and the methods `real` and `imag` that return the real and imaginary part. Demonstrate that it is working by verifying that $(1+1i)*\overline{(1)+(1i)}$ is 2.
 
 ### Part B (10 pts)
 
