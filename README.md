@@ -161,7 +161,7 @@ Write a class `my_complex` that stores a complex number. The class must contain 
 
 ### Part B (10 pts)
 
-Write a function that generates your favorite element of $\mathbb{C}^n$ using a list and your above class. Then write another function that computes the dot product of two vectors. Don't forget the complex conjugate.
+Write a function that generates your favorite element of $\mathbb{C}^n$ using a list of instances of `my_complex`. Then write another function that computes the dot product of two vectors. Don't forget the complex conjugate.
 
 Time how long it takes to generate the above vector and compute its norm for various values of $n$ from `1` to `1,000,000`. Using a pretty graph compare how long it takes to do the same things using `numpy` arrays of type `numpy.cdouble`. 
 
