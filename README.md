@@ -19,7 +19,7 @@ This assignment is due Thursday, October 12 at 10PM Chicago time.
 
 ### Grading Rubric
 
-The following rubric will be used for grading. There is no autograder for this assignment.
+The following rubric will be used for grading.
 
 |   | Autograder | Correctness | Style | Total |
 |:-:|:-:|:-:|:-:|:-:|
