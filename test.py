@@ -64,7 +64,7 @@ class TestComplex():
 	def setUp(self):
 		pass
 
-	def test_complex add(self):
+	def test_complex_add(self):
             x = my_complex(1,1)
             y = my_complex(1,0)+my_complex(0,1)
 
